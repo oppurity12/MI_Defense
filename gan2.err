@@ -1,0 +1,2 @@
+/home/m2017314029/Knowledge-Enriched-DMI/discri.py:15: UserWarning: nn.init.normal is now deprecated in favor of nn.init.normal_.
+  init.normal(self.T, 0, 1)

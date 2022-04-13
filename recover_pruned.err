@@ -1,0 +1,7 @@
+[2022-04-13 19:46:55,436 INFO recovery.py line 46 1248719] Namespace(device='4,5,6,7', dist_flag=True, improved_flag=True, model='VGG16')
+[2022-04-13 19:46:55,437 INFO recovery.py line 47 1248719] => creating model ...
+/home/m2017314029/Knowledge-Enriched-DMI/discri.py:15: UserWarning: nn.init.normal is now deprecated in favor of nn.init.normal_.
+  init.normal(self.T, 0, 1)
+[2022-04-13 19:47:01,015 INFO recovery.py line 98 1248719] => Begin attacking ...
+/home/m2017314029/.conda/envs/bido/lib/python3.7/site-packages/torch/nn/parallel/comm.py:227: UserWarning: Using -1 to represent CPU tensor is deprecated. Please use a device object or string instead, e.g., "cpu".
+  'Using -1 to represent CPU tensor is deprecated. Please use a '

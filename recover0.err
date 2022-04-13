@@ -1,0 +1,7 @@
+[2022-04-13 20:15:54,943 INFO recovery.py line 53 1360171] Namespace(D_path='improvedGAN/improved_celeba_D.tar', G_path='improvedGAN/improved_celeba_G.tar', T_path='target_model/target_ckp/VGG16_87.00_allclass.tar', device='4,5,6,7', dist_flag=True, improved_flag=True, model='VGG16', save_dir='not_pruned')
+[2022-04-13 20:15:54,943 INFO recovery.py line 54 1360171] => creating model ...
+/home/m2017314029/Knowledge-Enriched-DMI/discri.py:15: UserWarning: nn.init.normal is now deprecated in favor of nn.init.normal_.
+  init.normal(self.T, 0, 1)
+[2022-04-13 20:16:00,537 INFO recovery.py line 107 1360171] => Begin attacking ...
+/home/m2017314029/.conda/envs/bido/lib/python3.7/site-packages/torch/nn/parallel/comm.py:227: UserWarning: Using -1 to represent CPU tensor is deprecated. Please use a device object or string instead, e.g., "cpu".
+  'Using -1 to represent CPU tensor is deprecated. Please use a '

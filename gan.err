@@ -1,0 +1,3 @@
+/home/m2017314029/Knowledge-Enriched-DMI/discri.py:15: UserWarning: nn.init.normal is now deprecated in favor of nn.init.normal_.
+  init.normal(self.T, 0, 1)
+slurmstepd-gpuserver: error: *** JOB 2409 ON gpuserver CANCELLED AT 2022-04-13T21:50:02 ***
